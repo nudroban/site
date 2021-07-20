@@ -1,0 +1,46 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="fon.css">
+    <meta name="Content-Text" content="text/html" charset="utf-8">
+    <title>MyTable</title>
+  </head>
+  <body>
+    <table border="1">
+      <tr>
+        <td colspan="100%"><h1>Упражнения на группы мышц</h1></td>
+      </tr>
+      <tr>
+        <td rowspan="2"><h3>День</h3></td>
+        <td colspan="2"><h3>Верх</h3></td>
+        <td colspan="2"><h3>Низ</h3></td>
+      </tr>
+      <tr>
+        <td>Отжимания</td>
+        <td>Подтягивания</td>
+        <td>Приседания</td>
+        <td>Выпады</td>
+      </tr>
+      <tr class="redrows">
+        <td>1day</td>
+        <td>5</td>
+        <td>5</td>
+        <td>5</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>2day</td>
+        <td>10</td>
+        <td>10</td>
+        <td>10</td>
+        <td>10</td>
+      </tr>
+      <tr>
+        <td>3day</td>
+        <td>15</td>
+        <td>15</td>
+        <td>15</td>
+        <td>15</td>
+      </tr>
+    </table>
+  </body>
+</html>

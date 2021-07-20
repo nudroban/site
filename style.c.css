@@ -1,0 +1,32 @@
+body {
+  background: lightblue;
+}
+
+input {
+  width: 150px;
+  height: 20px;
+}
+
+label {
+  width: 150px;
+  font-size: 1.5em;
+  display: inline-block; 
+}
+
+button {
+  width: 250px;
+}
+
+form {
+  align: center;
+}
+
+#date {
+  height: 50px;
+}
+
+.pipipi {
+  color: #900;
+  font-size: 25px;
+}
+

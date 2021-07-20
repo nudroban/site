@@ -1,0 +1,27 @@
+body {
+	background: lightblue;
+}
+
+.redrows {
+	background-color: #700;
+	
+}
+
+.greenrows {
+	background-color: #070;
+}
+
+button {
+  width: 150px;
+}
+
+.col1 {
+	width: 70px;
+}
+
+.col2 {
+ 	width: 140px;
+}
+
+
+
