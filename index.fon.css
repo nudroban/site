@@ -21,3 +21,9 @@ h3 {
   font-size: 40px;
   background-color: lightyellow;
 }
+
+table {
+  border: 2px blue;
+  text-align: center;
+  font-size: 60px;
+}
