@@ -41,3 +41,8 @@ table {
     color: red;
     font-size: 2em;
 }
+
+body {
+    border: 30px;
+    border-image: url (/home/illia/site/first.jpg);
+}
